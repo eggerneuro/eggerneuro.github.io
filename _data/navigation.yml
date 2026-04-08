@@ -20,8 +20,5 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "News"
-    url: /news/    
-
   - title: "Join"
     url: /join/
