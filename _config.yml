@@ -23,8 +23,8 @@ repository               : "eggerneuro/eggerneuro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Avatar.png"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : <a href="https://hub.tmu.edu.tw/en/persons/seth-william-egger/"</a>
   location         : "Taipei, Taiwan"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
